@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color:whitesmoke;
+}
+.red{
+    background-color: palevioletred
+}
+.green{
+    background-color: cadetblue;
+}
+.yellow{
+    background-color:orange ;
+}
+.blue{
+    background-color: rebeccapurple;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    margin: 1.5rem;
+    border: 10px solid black;
+    border-radius: 50%;
+}
+.main{
+    
+    display: flex;
+    justify-content: center;
+
+}
+.flash{
+    background-color: white;
+    }
+.GameOver{
+    background-color: red;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size:30px;
+}
